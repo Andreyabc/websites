@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+img{width:305px }
+div{
+       display: inline-block;
+
+   
+
+   }
+.box{
+	text-align: center; 
+width: 100%} 
+body{font-family: 'Concert One', cursive;
+	background-image: url("yout.jpg");
+	background-repeat: no-repeat; 
+background-size: cover}
+/*Сделать пустую табличку для css свойств (3 столбца), записать туда свойства color, background-color, text-align 
+*/
+.card{
+	padding: 10px;
+	background-color: rgba(128,0,128,0.5);
+	margin: 20px;
+} 
+a{ text-decoration:none;color: white;font-size: 20px;
+
+}
