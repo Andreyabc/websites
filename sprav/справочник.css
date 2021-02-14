@@ -1,0 +1,8 @@
+th,td{
+	border:solid green;
+	font-weight:bold;
+	background-color:aliceblue 
+}
+body{
+  background-image:url(fon1.jpg); 
+}
